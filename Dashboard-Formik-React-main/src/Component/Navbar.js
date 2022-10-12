@@ -155,6 +155,8 @@ import React from "react";
                     src="https://source.unsplash.com/Mv9hjnEUHR4/60x60"
                     alt="..."
                   />
+
+                  
                   <div className="status-indicator bg-success"></div>
                 </div>
                 <div className="font-weight-bold">
